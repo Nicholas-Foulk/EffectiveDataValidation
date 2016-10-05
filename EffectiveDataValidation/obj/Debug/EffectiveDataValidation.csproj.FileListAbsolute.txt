@@ -1,0 +1,9 @@
+c:\users\nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\bin\Debug\EffectiveDataValidation.exe.config
+c:\users\nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\bin\Debug\EffectiveDataValidation.exe
+c:\users\nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\bin\Debug\EffectiveDataValidation.pdb
+c:\users\nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\obj\Debug\EffectiveDataValidation.Form1.resources
+c:\users\nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\obj\Debug\EffectiveDataValidation.Properties.Resources.resources
+c:\users\nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\obj\Debug\EffectiveDataValidation.csproj.GenerateResource.Cache
+c:\users\nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\obj\Debug\EffectiveDataValidation.exe
+c:\users\nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\obj\Debug\EffectiveDataValidation.pdb
+C:\Users\Nicholas\documents\visual studio 2015\Projects\EffectiveDataValidation\EffectiveDataValidation\obj\Debug\EffectiveDataValidation.csprojResolveAssemblyReference.cache
